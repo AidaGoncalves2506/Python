@@ -1,0 +1,35 @@
+2024-07-08 22:50:39,286 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:50:40,236 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:50:40,488 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:50:40,526 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 22:51:09,288 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:10,179 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:10,610 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:10,610 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 22:51:40,745 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:41,501 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:41,672 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:51:41,672 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 22:51:49,392 - INFO - Novo aluno registrado: Aido, Turma: pi04
+2024-07-08 22:52:56,983 - WARNING - Tentativa de login falhada: Artur
+2024-07-08 22:52:57,959 - WARNING - Tentativa de login falhada: Artur
+2024-07-08 22:52:58,312 - WARNING - Tentativa de login falhada: Artur
+2024-07-08 22:52:58,312 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Artur
+2024-07-08 22:57:33,966 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:57:34,657 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:57:34,826 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:57:34,826 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 22:58:55,084 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:58:55,709 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:58:55,905 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 22:58:55,905 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 23:04:26,246 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 23:04:26,745 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 23:04:26,995 - WARNING - Tentativa de login falhada: Aida
+2024-07-08 23:04:26,995 - ERROR - Número máximo de tentativas de login atingido para o utilizador: Aida
+2024-07-08 23:04:33,056 - INFO - Novo aluno registrado: Aidi, Turma: pi04
+2024-07-08 23:04:49,688 - INFO - Login bem-sucedido: Aidi
+2024-07-08 23:06:05,775 - WARNING - Tentativa de login falhada: Rafael
+2024-07-08 23:06:45,869 - WARNING - Tentativa de login falhada: Artur
+2024-07-08 23:06:50,590 - INFO - Login bem-sucedido: Aidi
+2024-07-08 23:07:12,893 - INFO - Login bem-sucedido: Aido
